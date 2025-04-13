@@ -17,7 +17,7 @@ public class DBContext {
     private String server = "localhost";
     private String user = "sa";
 
-    private String password = "123";
+    private String password = "123456";
 
     private String db = "ordering_system";
     private int port = 1433;
